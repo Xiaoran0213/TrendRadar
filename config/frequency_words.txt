@@ -81,6 +81,13 @@ ios
 ai
 !gai
 人工智能
+transformer
+统计学
+生成模型
+生物信息学
+单细胞
+Nature
+Cell
 
 自动驾驶
 
